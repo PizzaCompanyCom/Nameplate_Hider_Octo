@@ -2,7 +2,7 @@
 World of Warcraft — OctoWoW 1.17
 A lightweight addon that automatically hides unwanted nameplates to reduce screen clutter.
 
-<img src="Screenshots/Nm.jpg" alt="описание"/>
+<img src="Screenshot/Nm.jpg" alt="описание"/>
 
 **Features:**
 Hide friendly and enemy Shaman Totems.
